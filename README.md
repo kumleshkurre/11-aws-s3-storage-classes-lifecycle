@@ -90,8 +90,8 @@
 - S3 Storage Classes
 - AWS Cost Optimization
 ---
+ 
   ## 👨‍💻 Author
-
 **Kumlesh Kurre**
 💼 IT Support & Network Engineer
 
